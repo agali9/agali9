@@ -12,5 +12,3 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/lane-robotics-dark.svg"><img src="assets/lane-robotics-light.svg" alt="Robotics + ML"></picture><br>
 <a href="https://github.com/agali9/robot-arm"><img src="https://img.shields.io/badge/PyTorch-87.89%25%20sim%20reach-2b2b2b?style=for-the-badge&labelColor=EE4C2C&logo=pytorch&logoColor=white" alt="PyTorch: 87.89% sim reach"></a> <a href="https://github.com/agali9/robot-arm"><img src="https://img.shields.io/badge/ROS%202-arm%20control%20stack-2b2b2b?style=for-the-badge&labelColor=22314E&logo=ros&logoColor=white" alt="ROS 2: arm control stack"></a> <a href="https://github.com/agali9/point-cloud"><img src="https://img.shields.io/badge/C%2B%2B20-10.3%20ms%20LiDAR%20frame-2b2b2b?style=for-the-badge&labelColor=00599C&logo=cplusplus&logoColor=white" alt="C++20: 10.3 ms LiDAR frame"></a>
-
-<sub>Every button links to the code behind it.</sub>
